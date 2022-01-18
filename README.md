@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chirag Parmar</h1>
 <h3 align="center">A passionate full stack developer asperent from India</h3>
-<img align="right" width="400px" alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDrSehgal7%2FDrSehgal7&psig=AOvVaw0ou4r-yZtgBRquu_WCiLnV&ust=1642583656579000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDeqZP7uvUCFQAAAAAdAAAAABAL
+<img align="right" width="400px" alt="img" src="![image](https://user-images.githubusercontent.com/62385817/149907741-fc2c685e-691c-4226-b428-8f30218ce5c9.png)
 ">
 
 - 🔭 I’m currently working at **Ciphernutz**
