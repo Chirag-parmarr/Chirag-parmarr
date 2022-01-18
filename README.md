@@ -1,19 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8086
-Fork on GitHub
-1687
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
+[![Masterhead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fweb-developer&psig=AOvVaw0F9-qFEO1jrvm1nf69U5UP&ust=1642582383816000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD5jq_2uvUCFQAAAAAdAAAAABAD)]
 <h1 align="center">Hi 👋, I'm Chirag Parmar</h1>
 <h3 align="center">A passionate full stack developer asperent from India</h3>
 
