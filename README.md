@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fcomputer-programming-word-concepts-banner-gm1173372550-325884248&psig=AOvVaw2kvc2cn6K5HRDQFUVBkXSU&ust=1642582754350000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDTteD3uvUCFQAAAAAdAAAAABAm)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Chirag Parmar</h1>
 <h3 align="center">A passionate full stack developer asperent from India</h3>
