@@ -1,8 +1,9 @@
 
+![image](https://user-images.githubusercontent.com/62385817/149908091-32752913-68e5-4310-b115-4a8136bd3ec3.png)
 
 <h1 align="center">Hi 👋, I'm Chirag Parmar</h1>
 <h3 align="center">A passionate full stack developer asperent from India</h3>
-<img align="right" width="400px" alt="img" src="![image](https://user-images.githubusercontent.com/62385817/149907741-fc2c685e-691c-4226-b428-8f30218ce5c9.png)
+<img align="right" width="400px" alt="img" src="![image](https://user-images.githubusercontent.com/62385817/149908060-c950a236-6c66-44ed-bce8-68ee488ca424.png)
 ">
 
 - 🔭 I’m currently working at **Ciphernutz**
