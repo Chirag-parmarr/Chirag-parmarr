@@ -1,9 +1,11 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.themoontechnologies.com%2F&psig=AOvVaw1dBxvzUIMGZmImoTxpFvSF&ust=1642583358755000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiplYb6uvUCFQAAAAAdAAAAABAD)
+
 
 <h1 align="center">Hi 👋, I'm Chirag Parmar</h1>
 <h3 align="center">A passionate full stack developer asperent from India</h3>
+<img align="right" width="400px" alt="img" src="![image](https://user-images.githubusercontent.com/62385817/149907447-4686f0c6-0d97-44bd-b7a9-0f9f90a02519.png)
+">
 
-- 🔭 I’m currently working on **The French Laundry**
+- 🔭 I’m currently working at **Ciphernutz**
 
 - 💬 Ask me about **mern stack**
 
