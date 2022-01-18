@@ -1,5 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
-[![Masterhead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fweb-developer&psig=AOvVaw0F9-qFEO1jrvm1nf69U5UP&ust=1642582383816000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD5jq_2uvUCFQAAAAAdAAAAABAD)]
 <h1 align="center">Hi 👋, I'm Chirag Parmar</h1>
 <h3 align="center">A passionate full stack developer asperent from India</h3>
 
