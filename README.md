@@ -1,9 +1,9 @@
 
 <h1 align="center">Hey There, I'm Chirag Parmar</h1>
 <h3 align="center">A passionate full stack developer asperent from India</h3>
-<!-- 
 
-<img src="1.gif" alt="Code GIF" align="right" width="400px" height="360px" style="margin-left: 10px"> -->
+
+<img src="1.gif" alt="Code GIF" align="right" width="400px" height="360px" style="margin-left: 10px"> 
 - 🔭 I’m currently working at **Ciphernutz**
 
 - 💬 Ask me about **mern stack**
