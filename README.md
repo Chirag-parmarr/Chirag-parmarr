@@ -4,6 +4,7 @@
 <h3 align="center">A passionate full stack developer asperent from India</h3>
 
 
+<img src="code.gif" alt="Code GIF" align="right" width="400px" height="360px" style="margin-left: 10px">
 - 🔭 I’m currently working at **Ciphernutz**
 
 - 💬 Ask me about **mern stack**
