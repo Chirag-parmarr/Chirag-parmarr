@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hey There, I'm Chirag Parmar</h1>
 <h3 align="center">A passionate full stack developer asperent from India</h3>
 
@@ -10,6 +9,8 @@
 - 💬 Ask me about **mern stack**
 
 - 📫 How to reach me **itschiragparmar@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
