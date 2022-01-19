@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey There, I'm Chirag Parmar</h1>
-<h3 align="center">A passionate full stack developer asperent from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 
 <img src="coding.gif" width="470px" align="right" style="margin-left: 10px"> 
