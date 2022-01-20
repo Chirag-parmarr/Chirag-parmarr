@@ -5,7 +5,7 @@
 
 <img src="coding.gif" width="470px" align="right" style="margin-left: 10px"> 
 
-- 🔭 I’m currently working on **Ciphernutz**
+- 🔭 I’m currently working at **Ciphernutz**
 
 - 💬 Ask me about **mern stack**
 
