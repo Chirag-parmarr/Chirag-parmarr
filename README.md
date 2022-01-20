@@ -3,7 +3,7 @@
 <h3 align="center">A passionate IT Enthusiastic from India</h3>
 
 
-<img src="coding.gif" width="460px" align="right" style="margin-left: 10px"> 
+<img src="coding.gif" width="450px" align="right" style="margin-left: 10px"> 
 
 - 🔭 I’m currently working at **Ciphernutz**
 
