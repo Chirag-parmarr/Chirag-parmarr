@@ -1,11 +1,13 @@
 
 <h1 align="center">Hey There, I'm Chirag Parmar</h1>
-<h3 align="center">A passionate IT Enthusiastic from India</h3>
+<h3 align="center">A passionate IT Enthusiastic </h3>
 
 
 <img src="coding.gif" width="450px" align="right" style="margin-left: 10px"> 
 
-- 🔭 I’m currently working at **Ciphernutz**
+- 🔭 I’m currently working at **Ciphernutz** as mern stack developer
+
+- 🌱 I’m currently learning **dApps**
 
 - 📫 How to reach me **itschiragparmar@gmail.com**
 
