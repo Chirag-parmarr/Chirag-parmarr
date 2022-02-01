@@ -2,7 +2,6 @@
 <h1 align="center">Hey There, I'm Chirag Parmar</h1>
 <h3 align="center">A passionate IT Enthusiast</h3>
 
-
 <img src="coding.gif" width="450px" align="right" style="margin-left: 10px"> 
 
 - 🔭 I’m currently working at **Ciphernutz** as mern stack developer
