@@ -17,7 +17,7 @@
 <a href="https://instagram.com/chirag.is.here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chirag.is.here" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag-parmarr&show_icons=true&locale=en&layout=compact" alt="chirag-parmarr" /></p>
+<p><img align="right" width="40" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag-parmarr&show_icons=true&locale=en&layout=compact" alt="chirag-parmarr" /></p>
 
 <h3 >Languages and Tools:</h3>
 <p align="left"> 
