@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working at **Ciphernutz** as mern stack developer
 
-- 🌱 I’m currently learning **dApps**
 
 - 📫 How to reach me **itschiragparmar@gmail.com**
 
