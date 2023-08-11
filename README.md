@@ -4,7 +4,7 @@
 
 <img src="coding.gif" width="450px" align="right" style="margin-left: 10px"> 
 
-- 🔭 I’m currently working at **Ciphernutz** as mern stack developer
+- 🔭 I’m currently working at **DevX** as software developer
 
 
 - 📫 How to reach me **itschiragparmar@gmail.com**
